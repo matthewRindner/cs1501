@@ -1,0 +1,56 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Matthew Rindner
+
+Lecture section:  E
+
+Recitation day and time:  Thrus 4pm
+
+Assignment #:  5
+
+Program due date:  4/17/2020
+
+Handed in date:  4/17/2020
+
+Source code file name(s):
+
+HeftyInteger.java
+
+
+
+
+
+Other file name(s) (if relevant):
+
+MultiplicationTest.java
+
+
+
+
+
+Does your program run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+I was unable to complete XGCD in time
+
+
+
+
+Additional comments to the grader:
+
+Otherwise, I appreciate you grading the projects, have a good summer
+
+
+
+
+
+
