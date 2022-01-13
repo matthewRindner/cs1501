@@ -1,0 +1,58 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Matthew Rindner
+
+Lecture section:  E
+
+Recitation day and time:  TH 4PM
+
+Assignment #:  Project 3
+
+Program due date:  3/26/2020
+
+Handed in date:  3/26/2020
+
+Source code file name(s):
+
+Car.java
+CarTracker.java
+DataStructure.java
+
+
+
+Other file name(s) (if relevant):
+
+IndexMinPQ.java
+Queue.java
+StdIn.java
+StdOut.java
+TST.java
+
+Does your program run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+Go easy on the garbage inputs in the UI.
+
+Also, the prgram automatically reads in the Cars.txt file. 
+
+
+
+
+
+
